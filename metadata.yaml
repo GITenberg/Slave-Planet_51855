@@ -1,5 +1,8 @@
 _repo: Slave-Planet_51855
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51855-h/images/cover.jpg
 creator:
   author:
     agent_name: Janifer, Laurence M.
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25268
     wikipedia: http://en.wikipedia.org/wiki/Laurence_Janifer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51855#Slave-Planet
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-04-24'
 gutenberg_type: Text
